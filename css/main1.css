@@ -1,0 +1,39 @@
+body {
+  font-family: monospace;
+  background-color: rgba(255, 139, 86, 0.979);
+}
+
+.text-title {
+  padding: 2rem;
+  font-size: 3rem;
+  margin-bottom: 2rem;
+  text-align: center;
+  position: relative;
+  background-color: #5dc46b;
+  border: rgba(172, 48, 39, 0) solid 6px;
+}
+
+.text-title .pic {
+  position: absolute;
+  width: 5rem;
+  opacity: 0.6;
+  display: block;
+}
+
+.text-title .pic_pic1 {
+  margin-left: 4rem;
+}
+
+.text-title .pic_pic2 {
+  margin-left: 10rem;
+}
+
+.text-title .pic_pic3 {
+  margin-left: 85rem;
+}
+
+.text-title .pic_pic4 {
+  margin-left: 60rem;
+  margin-top: -1rem;
+}
+/*# sourceMappingURL=main.css.map */

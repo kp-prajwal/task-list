@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,CAAA;EACF,aAAa,EAAE,IAAI;EACnB,SAAS,EAAE,KAAK;EAChB,gBAAgB,EAAE,OAAO;CAC1B",
+    "sources": [
+        "_styling.scss"
+    ],
+    "names": [],
+    "file": "styling.css"
+}
